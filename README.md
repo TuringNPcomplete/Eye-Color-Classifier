@@ -5,6 +5,6 @@ To view application and utilize:
 3. Search for Eye Color Classifier
 4. Click on the application
 5. Upload a picture of an eye
-6. Slick on analyze
+6. Click on analyze
 7. View prediction
 8. Share with others 😄
