@@ -1,2 +1,10 @@
 # Eye-Color-Classifier
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TuringNPcomplete/Eye-Color-Classifier/HEAD?filepath=%2Fvoila%2Frender%2FEye_color_classifier.ipynb)
+To view application and utilize:
+1. sign up on app.seeme.ai
+2. login with your username and password
+3. Search for Eye Color Classifier
+4. Click on the application
+5. Upload a picture of an eye
+6. click on analyze
+7. view prediction
+8. share with others 😄
