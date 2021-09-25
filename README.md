@@ -1,6 +1,6 @@
 # Eye-Color-Classifier
 To view application and utilize:
-1. sign up on app.seeme.ai
+1. sign up on [seeme.ai](https://www.app.seeme.ai)
 2. login with your username and password
 3. Search for Eye Color Classifier
 4. Click on the application
